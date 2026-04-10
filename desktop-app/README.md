@@ -24,7 +24,7 @@ To clone and run this repository you'll need Git and Node.js installed on your c
 
 ```bash
 # Clone repository
-git clone https://github.com/TringNghia/SonnaDesktop.git
+git clone https://github.com/nghiaomg/SonnaDesktop.git
 cd SonnaDesktop/desktop-app
 
 # Install dependencies
